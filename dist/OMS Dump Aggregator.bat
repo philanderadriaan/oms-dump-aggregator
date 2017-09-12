@@ -1,1 +1,0 @@
-java -jar oms-dump-aggregator.jar
